@@ -21,10 +21,3 @@ flutter pub get
 flutter run
 ```
 
-## Screenshot Aplikasi
-
-### Tampilan Mobile
-![Screenshot Mobile](docs/screenshot_mobile.png)
-
-### Tampilan Tablet
-![Screenshot Tablet](docs/screenshot_tablet.png)
